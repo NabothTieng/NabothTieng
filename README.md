@@ -4,7 +4,7 @@ Full-Stack Developer | React, Node.js, Python | Web, API & Mobile Apps | Buildin
 
 ## About Me
 
-Nairobi, Kenya • [LinkedIn Profile](https://linkedin.com/in/naboth-tieng) • [Email me](mailto:your.email@example.com)
+Nairobi, Kenya • [Portfolio](https://www.nabothtieng.com/) • [LinkedIn Profile](https://linkedin.com/in/naboth-tieng) • [Email me](mailto:your.email@example.com)
 
 I'm a passionate full-stack developer with hands-on experience crafting intuitive web applications, robust APIs, and AI-driven workflows that solve real-world problems. Holding a Bachelor of Applied Science in Computer Software Engineering from USIU-Africa, I thrive on turning complex ideas into scalable, user-centric solutions—whether it's automating business processes or optimizing inventory systems.
 
