@@ -1,24 +1,27 @@
 ## Hi there! 👋 I'm Naboth Tieng
 
-Full-Stack Developer | React, Node.js, Python | Web, API & Mobile Apps | Building Scalable SaaS & AI Solutions
+**Software Developer** · React, Node.js, TypeScript, Python · Web, API & Mobile Apps
 
 ## About Me
 
-Nairobi, Kenya • [Portfolio](https://www.nabothtieng.com/) • [LinkedIn Profile](https://linkedin.com/in/naboth-tieng) • [Email me](mailto:your.email@example.com)
+Nairobi, Kenya · [Portfolio](https://www.nabothtieng.com/) · [LinkedIn](https://linkedin.com/in/naboth-tieng-113aa1243) · [Email](mailto:nabothtieng@gmail.com)
 
-I'm a passionate full-stack developer with hands-on experience crafting intuitive web applications, robust APIs, and AI-driven workflows that solve real-world problems. Holding a Bachelor of Applied Science in Computer Software Engineering from USIU-Africa, I thrive on turning complex ideas into scalable, user-centric solutions—whether it's automating business processes or optimizing inventory systems.
+Full-stack developer with years building and shipping production web apps, REST APIs, and AI-driven workflows. I've built everything from a student collaboration platform piloted at a Canadian university to a traffic-support app that got presented to the President of Kenya. I love working in fast-moving teams and turning real problems into clean, scalable solutions.
 
-I'm all about collaborative innovation, staying ahead of emerging tech like Docker and n8n, and delivering impact that scales.
+AWS Certified Cloud Practitioner ☁️ · Currently pursuing AWS Solutions Architect Associate · One day I'll get that golden jacket. 🧥
 
-When I'm not coding, you'll find me exploring AI trends, tinkering with open-source contributions, or hiking Kenya's trails to recharge.
+Currently based in Nairobi and open to remote opportunities.
 
-I have another Github account with a couple of other nice projects at [look at them here](https://github.com/Naboth-tieng)
+When I'm not coding, I'm exploring AI trends, contributing to open source, or somewhere out in Kenya's outdoors recharging.
+
+📌 Check out my work at **[nabothtieng.com](https://www.nabothtieng.com/)**
+
+> I also have a second GitHub account with a few more projects → [Naboth-tieng](https://github.com/Naboth-tieng)
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=docker,graphql,js,nodejs,react,django,html,css,git,mysql,vue,flutter,postgres,java,py,c,anaconda,androidstudio,d3,arduino,blender,azure,firebase,flask,kotlin,figma,php,pytorch,supabase,sklearn,vercel,angular,dart,r,cs,cpp,eclipse,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,flask,supabase,firebase,postgres,mysql,docker,aws,vercel,git,java,kotlin,androidstudio,figma,html,css&perline=8)](https://skillicons.dev)
 
-
-### Support Me
+### Support My Work
 
 <a href="https://www.buymeacoffee.com/nabothtieng"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
